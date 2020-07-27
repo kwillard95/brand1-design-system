@@ -26,6 +26,6 @@
     "webpack": "^4.44.0"
   },
   "dependencies": {
-    "@dtc-design-system/core": "^1.0.5"
+    "@dtc-design-system/core": "^1.0.7"
   }
 }

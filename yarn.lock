@@ -975,10 +975,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@dtc-design-system/core@^1.0.5":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@dtc-design-system/core/-/core-1.0.5.tgz#bef13021b0ac64179d6b40e5e449dc46e6ea2e34"
-  integrity sha512-1mXWWzAjUIQw282NyUkDHjOFiUrLJJezccFroJcCYom5Oy2PDBqYI8MH37OslFB3gvNd7yBfXrJB1BSA0S5m2g==
+"@dtc-design-system/core@^1.0.7":
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@dtc-design-system/core/-/core-1.0.7.tgz#67db172752e45e167d53edddacf93f092623c8dd"
+  integrity sha512-MLBX0KVrLm+hAjxudBlOj9pPsS4gxj7y7HxDlz0otZukIKgz0IF6jkTlkr+ByTQXuV8zK1Kfb+NNeaBzktnDag==
   dependencies:
     react latest
     react-dom latest
